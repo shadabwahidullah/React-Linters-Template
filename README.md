@@ -2,6 +2,8 @@
 
 This is a react repository which is configured with linters, You can use linters for coding style and coding format checks. If you like using linters with react feel free to use this template. It will save you some time.
 
+To learn more about linters and how it works. Click [here](https://github.com/microverseinc/linters-config).
+
 ## Built With
 
 - HTML 
