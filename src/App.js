@@ -5,7 +5,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <p>
-        Your app is running successfully
+          Your app is running successfully
         </p>
       </header>
     </div>
