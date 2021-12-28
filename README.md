@@ -12,7 +12,6 @@ This is a react repository which is configured with linters, You can use linters
 - Javascript
 - Jest
 - Linters
-- GitHub API
 
 
 ## Getting Started
